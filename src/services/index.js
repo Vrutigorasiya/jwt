@@ -1,0 +1,1 @@
+module.exports.admin_service = require("./admin.services")
